@@ -7,3 +7,4 @@ to after installing make a symbolic link for ld64 in your /lib directory and
 you'll need to be root to do that.
 
 Any questions just email me mjm703@gmail.com
+If you found this useful, my doge address is D8dgPErq28rDWxCMts2aRb1R9S3gRAx3uA
