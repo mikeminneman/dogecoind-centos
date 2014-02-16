@@ -41,7 +41,7 @@ cd ../..
 
 mkdir dogecoin-master
 cd dogecoin-master
-wget -qO- https://github.com/dogecoin/dogecoin/tarball/master --no-check-certificate | tar xzv --strip-components 1
+wget -qO- https://github.com/dogecoin/dogecoin/tarball/master-1.5 --no-check-certificate | tar xzv --strip-components 1
 cd src
 #cp -vap ~$USERNAME/makefile.new .
 cat /home/$USERNAME/makefile.new | sed s/kjj/$USERNAME/g > makefile.new
